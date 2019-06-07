@@ -181,6 +181,7 @@
 	$$\eta_{\perp\text{в}}=\sqrt{\frac{\mu}{\epsilon}} \left( \frac{k}{h} \right)^{\pm 1}$$ 
 	где <<+>> -- соответствует волне типа TE, а <<-->> -- волне типа TM. Для TEM волны $\displaystyle \eta_{\perp\text{в}}=\sqrt{\frac{\mu}{\epsilon}}$
 	
+<<<<<<< Updated upstream
 	% \ticket{4}
 	
 
@@ -355,4 +356,22 @@ $\varepsilon=\varepsilon'+i \varepsilon''$, аналогично $\mu=\ldots$. �
 	\label{fig:figure1}
 \end{figure}
 
+=======
+	\newpage
+	\hypertarget{num13}{}
+	\textbf{Представление полей в ЛП как суперпозицию мод.}
+
+	Пусть в волноводе в области от $z_1$ до $z_2$ заданы токи $\vec{j}^e$ и $\vec{j}^m$. Тогда поля вне области источников тока можно найти как
+	суперпозицию собственных мод волновода:
+	\begin{align*}
+		&\vec{E}(z>z_2) = \sum \limits_{p=1}^{\infty}a_p\vec{E}_p\\
+		&\vec{E}(z<z_1) = \sum \limits_{p=1}^{\infty}a_{-p}\vec{E}_{-p}	,	
+	\end{align*}
+	где $p$ - индекс моды в волноводе. коэффициента $a_p$ и $a_{-p}$ находятся следующим образом:
+	\begin{align*}
+		&a_p = \frac{1}{N_p}\int\limits_V\left[ (\vec{j}^e,\vec{E}_{-p})-(\vec{j}^m,\vec{H}_{-p}) \right]\dd V\\
+		&a_{-p} = \frac{1}{N_p}\int\limits_V\left[ (\vec{j}^e,\vec{E}_{p})-(\vec{j}^m,\vec{H}_{p}) \right]\dd V,
+	\end{align*}
+	где $N_p$ - это норма моды $p$, $N_p=\pm4\Pi_p$, где $\Pi_p$ - мощность моды типа $p$.
+>>>>>>> Stashed changes
 \end{document}
