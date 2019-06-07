@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1559932432 "Минимум.tex" "Минимум.pdf" "Минимум" 1559932433
+["pdflatex"] 1559935840 "Минимум.tex" "Минимум.pdf" "Минимум" 1559935841
   "/dev/null" 1559911812 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/home/osabio/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1539207008 3304 6a543c07045572737981351171e0505e ""
   "/home/osabio/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm" 1543341108 3316 0992aa03d0c75498a0b6fb905d9eaab6 ""
@@ -30,6 +30,7 @@
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1550406775 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1550406775 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1550406775 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1550406775 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1550406775 34694 ad62b13721ee8eda1dcc8993c8bd7041 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb" 1550406775 135942 859a90cad7494a1e79c94baf546d7de5 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb" 1550406775 140194 627cc7f36c05b80e25d178974ccb3442 ""
@@ -123,11 +124,11 @@
   "img/lect4_ris8.pdf" 1551530849 24009 e3c532543b8e873d3377d99ae9979333 ""
   "img2/volna.pdf" 1559918596 15143 c7ef750fec371bdacac65c27536160f6 ""
   "img_lect5/cylindric/TE11.pdf" 1552063620 1671 55b5bcb5bf0a8af7a82c291cd6804d80 ""
-  "Минимум.aux" 1559932433 13353 3f1f7ead752acf867b7f6de9ed42e936 ""
-  "Минимум.out" 1559932433 1800 84d122a2052b2bb3dfd968951a088970 ""
-  "Минимум.tex" 1559932432 28086 e0c15dcf729d39607107bbee49902c19 ""
+  "Минимум.aux" 1559935841 17942 f700146070c51fc2de33c653d56b9a99 ""
+  "Минимум.out" 1559935841 1800 84d122a2052b2bb3dfd968951a088970 ""
+  "Минимум.tex" 1559935839 32084 817cf35125613f714fab9dda3b0eb89c ""
   (generated)
-  "Минимум.log"
   "Минимум.out"
   "Минимум.pdf"
+  "Минимум.log"
   "Минимум.aux"
