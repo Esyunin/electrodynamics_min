@@ -201,9 +201,9 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-33.def
 INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-33.def
+INPUT /home/osabio/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
 INPUT /home/osabio/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm
 INPUT /home/osabio/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm0700.tfm
-INPUT /home/osabio/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
 INPUT img/lect4_ris8.pdf
 INPUT ./img/lect4_ris8.pdf
 INPUT ./img/lect4_ris8.pdf
