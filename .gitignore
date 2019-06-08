@@ -1,0 +1,7 @@
+# Specify filepatterns you want git to ignore.
+
+.aux
+.log
+.fdb_latexmk
+.fls
+.synctex.gz
