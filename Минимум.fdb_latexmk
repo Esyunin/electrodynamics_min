@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1559993959 "Минимум.tex" "Минимум.pdf" "Минимум" 1559993961
+["pdflatex"] 1559994134 "Минимум.tex" "Минимум.pdf" "Минимум" 1559994137
   "c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1542737652 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1542739093 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1542736533 1004 54797486969f23fa377b128694d548df ""
@@ -130,13 +130,13 @@
   "img2/volna.pdf" 1559937104 15143 c7ef750fec371bdacac65c27536160f6 ""
   "img_lect5/cylindric/TE11.pdf" 1559937104 1671 55b5bcb5bf0a8af7a82c291cd6804d80 ""
   "nul" 0 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Минимум.aux" 1559993961 17838 d0e2a26a1b0dfbaba91c716c8a88ff58 ""
-  "Минимум.out" 1559993960 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Минимум.tex" 1559993957 37305 e2815c13cab3f3cd68e798e9ede091a7 ""
+  "Минимум.aux" 1559994136 17838 8c1ae9f62136571dc4b707d47d82c3a5 ""
+  "Минимум.out" 1559994135 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Минимум.tex" 1559994126 37329 55404b92412b3a7d17ccbd9c00711f0b ""
   (generated)
+  "e:/Work/GitHub/Electrodynamics_minimum/Минимум.log"
+  "e:/Work/GitHub/Electrodynamics_minimum/Минимум.pdf"
   "Минимум.out"
+  "Минимум.pdf"
   "Минимум.aux"
   "Минимум.log"
-  "e:/Work/GitHub/Electrodynamics_minimum/Минимум.pdf"
-  "Минимум.pdf"
-  "e:/Work/GitHub/Electrodynamics_minimum/Минимум.log"
