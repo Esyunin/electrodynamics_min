@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1560014208 "Минимум.tex" "Минимум.pdf" "Минимум" 1560014210
+["pdflatex"] 1560014495 "Минимум.tex" "Минимум.pdf" "Минимум" 1560014496
   "/dev/null" 1560001203 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/home/osabio/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1539207008 3304 6a543c07045572737981351171e0505e ""
   "/home/osabio/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm" 1543341108 3316 0992aa03d0c75498a0b6fb905d9eaab6 ""
@@ -138,11 +138,11 @@
   "img2/exp.pdf" 1560013590 17390 67c523ca63e0c8c6a27d4b1685ad169c ""
   "img2/volna.pdf" 1560013590 15143 c7ef750fec371bdacac65c27536160f6 ""
   "img_lect5/cylindric/TE11.pdf" 1560013590 1671 55b5bcb5bf0a8af7a82c291cd6804d80 ""
-  "Минимум.aux" 1560014209 23753 d85f1badba89a9a9b7413229c07ccb82 ""
-  "Минимум.out" 1560014208 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Минимум.tex" 1560014206 45270 0cb4b4c4f96e4c175a6a8601d76e9f64 ""
+  "Минимум.aux" 1560014496 23753 d85f1badba89a9a9b7413229c07ccb82 ""
+  "Минимум.out" 1560014496 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Минимум.tex" 1560014480 45270 0cb4b4c4f96e4c175a6a8601d76e9f64 ""
   (generated)
-  "Минимум.pdf"
   "Минимум.out"
-  "Минимум.log"
   "Минимум.aux"
+  "Минимум.pdf"
+  "Минимум.log"
