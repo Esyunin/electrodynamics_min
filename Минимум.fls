@@ -1,4 +1,4 @@
-PWD D:/electrodynamics_min
+PWD D:/Labs/electrodynamics_min
 INPUT c:/texlive/2018/texmf.cnf
 INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -22,7 +22,7 @@ INPUT c:/texlive/2018/texmf-dist/tex/latex/base/t2aenc.dfu
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/t2aenc.dfu
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-INPUT c:/Users/osabio/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cmap/t2a.cmap
 OUTPUT Минимум.pdf
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cmap/t2a.cmap
@@ -173,11 +173,11 @@ INPUT Минимум.out
 INPUT ./Минимум.out
 INPUT ./Минимум.out
 OUTPUT Минимум.out
-INPUT c:/Users/osabio/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm
-INPUT c:/Users/osabio/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm
 INPUT c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-4.def
 INPUT c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-4.def
-INPUT c:/Users/osabio/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/lati1440.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/lati1440.tfm
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cmap/ot1.cmap
 INPUT c:/texlive/2018/texmf-dist/tex/latex/cmap/ot1.cmap
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -203,9 +203,9 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-33.def
 INPUT c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-33.def
-INPUT c:/Users/osabio/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
-INPUT c:/Users/osabio/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm
-INPUT c:/Users/osabio/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/larm0700.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm
+INPUT c:/texlive/2018/texmf-var/fonts/tfm/lh/lh-t2a/larm0700.tfm
 INPUT img/lect4_ris8.pdf
 INPUT ./img/lect4_ris8.pdf
 INPUT ./img/lect4_ris8.pdf
