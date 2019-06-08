@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.6.7)  8 JUN 2019 16:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.6.7)  8 JUN 2019 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -819,24 +819,24 @@ LaTeX Warning: Label `fig:lect4:8' multiply defined.
 )
 \openout1 = `РњРёРЅРёРјСѓРј.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
  (/usr/share/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -871,7 +871,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring OFF on input line 46.
+Package hyperref Info: Link coloring OFF on input line 43.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -881,9 +881,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count288
 )
-LaTeX Info: Redefining \ref on input line 46.
-LaTeX Info: Redefining \pageref on input line 46.
-LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
 
 (./РњРёРЅРёРјСѓРј.out) (./РњРёРЅРёРјСѓРј.out)
 \@outlinefile=\write3
@@ -927,16 +927,16 @@ LaTeX Info: Redefining \nameref on input line 46.
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 )<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 53.
+LaTeX Font Info:    Try loading font information for U+msa on input line 51.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 53.
+LaTeX Font Info:    Try loading font information for U+msb on input line 51.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (5.99908pt too wide) in paragraph at lines 56--58
+Overfull \hbox (5.99908pt too wide) in paragraph at lines 54--56
 \T2A/cmr/m/n/14.4 про-из-воль-ной и гар-мо-ни-че-ской за-ви-си-мо-сти от вре-ме
 -ни. Диф-фе-рен-ци-аль-ное урав-
  []
@@ -950,7 +950,7 @@ File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 <img/lect2_ris1.pdf, id=130, 247.46251pt x 113.79312pt>
 File: img/lect2_ris1.pdf Graphic file (type pdf)
 <use img/lect2_ris1.pdf>
-Package pdftex.def Info: img/lect2_ris1.pdf  used on input line 204.
+Package pdftex.def Info: img/lect2_ris1.pdf  used on input line 258.
 (pdftex.def)             Requested size: 371.19284pt x 170.68924pt.
 
 [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
@@ -958,243 +958,129 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.243 	\newpage
-                <./img/lect2_ris1.pdf>] [8]
-<img/lect2_ris6.pdf, id=167, 176.21132pt x 124.97691pt>
+l.302 \ticket{5}
+                 <./img/lect2_ris1.pdf>]
+<img/lect2_ris6.pdf, id=163, 176.21132pt x 124.97691pt>
 File: img/lect2_ris6.pdf Graphic file (type pdf)
 <use img/lect2_ris6.pdf>
-Package pdftex.def Info: img/lect2_ris6.pdf  used on input line 277.
+Package pdftex.def Info: img/lect2_ris6.pdf  used on input line 309.
 (pdftex.def)             Requested size: 281.93848pt x 199.9633pt.
-<img/lect3_ris1.pdf, id=168, 231.6916pt x 140.41158pt>
+<img/lect3_ris1.pdf, id=164, 231.6916pt x 140.41158pt>
 File: img/lect3_ris1.pdf Graphic file (type pdf)
 <use img/lect3_ris1.pdf>
-Package pdftex.def Info: img/lect3_ris1.pdf  used on input line 303.
+Package pdftex.def Info: img/lect3_ris1.pdf  used on input line 330.
 (pdftex.def)             Requested size: 231.69102pt x 140.41122pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/lect3_ris2.pdf, id=169, 231.68558pt x 140.41158pt>
+<img/lect3_ris2.pdf, id=165, 231.68558pt x 140.41158pt>
 File: img/lect3_ris2.pdf Graphic file (type pdf)
 <use img/lect3_ris2.pdf>
-Package pdftex.def Info: img/lect3_ris2.pdf  used on input line 320.
+Package pdftex.def Info: img/lect3_ris2.pdf  used on input line 340.
 (pdftex.def)             Requested size: 231.68501pt x 140.41122pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/lect3_ris3.pdf, id=170, 166.3545pt x 140.41158pt>
+<img/lect3_ris3.pdf, id=166, 166.3545pt x 140.41158pt>
 File: img/lect3_ris3.pdf Graphic file (type pdf)
 <use img/lect3_ris3.pdf>
-Package pdftex.def Info: img/lect3_ris3.pdf  used on input line 327.
+Package pdftex.def Info: img/lect3_ris3.pdf  used on input line 347.
 (pdftex.def)             Requested size: 166.3541pt x 140.41122pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.332 
-       <./img/lect2_ris6.pdf>]
-<img/lect3_ris4.pdf, id=191, 152.92935pt x 125.71667pt>
-File: img/lect3_ris4.pdf Graphic file (type pdf)
-<use img/lect3_ris4.pdf>
-Package pdftex.def Info: img/lect3_ris4.pdf  used on input line 336.
-(pdftex.def)             Requested size: 152.92897pt x 125.71635pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/lect3_ris5.pdf, id=192, 282.42113pt x 68.81108pt>
-File: img/lect3_ris5.pdf Graphic file (type pdf)
-<use img/lect3_ris5.pdf>
-Package pdftex.def Info: img/lect3_ris5.pdf  used on input line 352.
-(pdftex.def)             Requested size: 282.42043pt x 68.8109pt.
-<img/lect3_ris6.pdf, id=193, 282.4131pt x 40.35678pt>
-File: img/lect3_ris6.pdf Graphic file (type pdf)
-<use img/lect3_ris6.pdf>
-Package pdftex.def Info: img/lect3_ris6.pdf  used on input line 353.
-(pdftex.def)             Requested size: 282.4124pt x 40.35667pt.
-<img/lect3_ris7.pdf, id=194, 282.4131pt x 40.35678pt>
-File: img/lect3_ris7.pdf Graphic file (type pdf)
-<use img/lect3_ris7.pdf>
-Package pdftex.def Info: img/lect3_ris7.pdf  used on input line 354.
-(pdftex.def)             Requested size: 282.4124pt x 40.35667pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
- has been already used, duplicate ignored
+l.364 	\item Р
+              ¤Р°Р·РѕРІР°СЏ СЃРєРѕСЂРѕСЃС‚СЊ - СЃРєРѕСЂРѕСЃС‚СЊ РїРµСЂРµРјРµ...
+ <./img/lect2_ris6.pdf>] [9pdfTeX warning (ext4): destination with the same ide
+ntifier (name{figure.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.363 	\item Р
-              ’СЂРµРјРµРЅРЅРѕР№ РїРµСЂРёРѕРґpdfTeX warning (ext4): destination 
-with the same identifier (name{figure.4}) has been already used, duplicate igno
-red
+l.374 	\end{equation*}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{figure.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.363 	\item Р
-              ’СЂРµРјРµРЅРЅРѕР№ РїРµСЂРёРѕРґpdfTeX warning (ext4): destination 
-with the same identifier (name{figure.5}) has been already used, duplicate igno
-red
+l.374 	\end{equation*}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{figure.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.363 	\item Р
-              ’СЂРµРјРµРЅРЅРѕР№ РїРµСЂРёРѕРґ <./img/lect3_ris1.pdf> <./img/lect
-3_ris2.pdf> <./img/lect3_ris3.pdf>] [11pdfTeX warning (ext4): destination with 
-the same identifier (name{figure.6}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.395 	\end{equation*}
-                       <./img/lect3_ris4.pdf> <./img/lect3_ris5.pdf> <./img/lec
-t3_ris6.pdf> <./img/lect3_ris7.pdf>]
-<img/lect3_ris8.pdf, id=314, 280.28616pt x 83.81512pt>
-File: img/lect3_ris8.pdf Graphic file (type pdf)
-<use img/lect3_ris8.pdf>
-Package pdftex.def Info: img/lect3_ris8.pdf  used on input line 409.
-(pdftex.def)             Requested size: 280.28546pt x 83.81491pt.
- [12pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.451 	\end{gather*}
-                     <./img/lect3_ris8.pdf>]
-<img/lect3_ris10.pdf, id=339, 193.51196pt x 154.42896pt>
-File: img/lect3_ris10.pdf Graphic file (type pdf)
-<use img/lect3_ris10.pdf>
-Package pdftex.def Info: img/lect3_ris10.pdf  used on input line 467.
-(pdftex.def)             Requested size: 193.51147pt x 154.42856pt.
- [13pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.472 \ticket{6}
-                 <./img/lect3_ris10.pdf>]
-<img/lect4_ris1.pdf, id=366, 202.56679pt x 105.29137pt>
-File: img/lect4_ris1.pdf Graphic file (type pdf)
-<use img/lect4_ris1.pdf>
-Package pdftex.def Info: img/lect4_ris1.pdf  used on input line 494.
-(pdftex.def)             Requested size: 202.56628pt x 105.29109pt.
-<img/lect4_ris2.pdf, id=367, 90.43085pt x 90.21303pt>
-File: img/lect4_ris2.pdf Graphic file (type pdf)
-<use img/lect4_ris2.pdf>
-Package pdftex.def Info: img/lect4_ris2.pdf  used on input line 503.
-(pdftex.def)             Requested size: 90.43062pt x 90.21278pt.
- [14pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.521 Р”
-        Р»СЏ РЅР°С‡Р°Р»Р° СЂР°СЃСЃРјРѕС‚СЂРёРј Р·Р°РґР°С‡Сѓ РїРѕРїСЂРѕС‰Рµ, ...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
-as been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.521 Р”
-        Р»СЏ РЅР°С‡Р°Р»Р° СЂР°СЃСЃРјРѕС‚СЂРёРј Р·Р°РґР°С‡Сѓ РїРѕРїСЂРѕС‰Рµ, ...
- <./img/lect4_ris1.pdf> <./img/lect4_ris2.pdf>]
-<img/lect4_ris3.pdf, id=400, 171.11026pt x 141.58597pt>
-File: img/lect4_ris3.pdf Graphic file (type pdf)
-<use img/lect4_ris3.pdf>
-Package pdftex.def Info: img/lect4_ris3.pdf  used on input line 534.
-(pdftex.def)             Requested size: 256.66472pt x 212.37842pt.
- [15pdfTeX warning (ext4): destination with the same identifier (name{figure.11
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.554 Рњ
-        РѕР¶РЅРѕ СЃРґРµР»Р°С‚СЊ РІР°Р¶РЅС‹Р№ РІС‹РІРѕРґ: \textbf{РІРґРѕР»СЊ ...
- <./img/lect4_ris3.pdf>]
-<img/lect4_ris4.pdf, id=412, 89.23639pt x 90.58241pt>
+l.374 	\end{equation*}
+                       <./img/lect3_ris1.pdf> <./img/lect3_ris2.pdf> <./img/lec
+t3_ris3.pdf>] [10]
+<img/lect4_ris4.pdf, id=249, 89.23639pt x 90.58241pt>
 File: img/lect4_ris4.pdf Graphic file (type pdf)
 <use img/lect4_ris4.pdf>
-Package pdftex.def Info: img/lect4_ris4.pdf  used on input line 558.
+Package pdftex.def Info: img/lect4_ris4.pdf  used on input line 422.
 (pdftex.def)             Requested size: 133.85423pt x 135.87328pt.
-<img/lect4_ris5.pdf, id=414, 302.49713pt x 252.9972pt>
-File: img/lect4_ris5.pdf Graphic file (type pdf)
-<use img/lect4_ris5.pdf>
-Package pdftex.def Info: img/lect4_ris5.pdf  used on input line 567.
-(pdftex.def)             Requested size: 211.74654pt x 177.09682pt.
-<img/lect4_ris6.pdf, id=416, 120.86154pt x 89.11694pt>
+<img/lect4_ris6.pdf, id=251, 120.86154pt x 89.11694pt>
 File: img/lect4_ris6.pdf Graphic file (type pdf)
 <use img/lect4_ris6.pdf>
-Package pdftex.def Info: img/lect4_ris6.pdf  used on input line 588.
+Package pdftex.def Info: img/lect4_ris6.pdf  used on input line 434.
 (pdftex.def)             Requested size: 181.29182pt x 133.67506pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[16pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.594 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-13}) has been already used, duplicate ignored
+l.445 \ticket{7}
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.594 
-       <./img/lect4_ris4.pdf> <./img/lect4_ris5.pdf>] [17pdfTeX warning (ext4):
- destination with the same identifier (name{figure.14}) has been already used, 
-duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.601 \ticket{7}
-                 <./img/lect4_ris6.pdf>]
-<img/lect4_ris8.pdf, id=466, 135.95293pt x 102.90947pt>
+l.445 \ticket{7}
+                 <./img/lect4_ris4.pdf> <./img/lect4_ris6.pdf>]
+<img/lect4_ris8.pdf, id=287, 135.95293pt x 102.90947pt>
 File: img/lect4_ris8.pdf Graphic file (type pdf)
 <use img/lect4_ris8.pdf>
-Package pdftex.def Info: img/lect4_ris8.pdf  used on input line 617.
+Package pdftex.def Info: img/lect4_ris8.pdf  used on input line 460.
 (pdftex.def)             Requested size: 203.92886pt x 154.36382pt.
-<img_lect5/cylindric/TE11.pdf, id=467, 207.13687pt x 171.11629pt>
+<img_lect5/cylindric/TE11.pdf, id=288, 207.13687pt x 171.11629pt>
 File: img_lect5/cylindric/TE11.pdf Graphic file (type pdf)
 <use img_lect5/cylindric/TE11.pdf>
-Package pdftex.def Info: img_lect5/cylindric/TE11.pdf  used on input line 629.
+Package pdftex.def Info: img_lect5/cylindric/TE11.pdf  used on input line 472.
 (pdftex.def)             Requested size: 310.70453pt x 256.67378pt.
- [18pdfTeX warning (ext4): destination with the same identifier (name{figure.15
-}) has been already used, duplicate ignored
+ [12pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.633 
-       <./img/lect4_ris8.pdf>] [19pdfTeX warning (ext4): destination with the s
-ame identifier (name{figure.16}) has been already used, duplicate ignored
+l.476 
+       <./img/lect4_ris8.pdf>] [13pdfTeX warning (ext4): destination with the s
+ame identifier (name{figure.9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.637 \ticket{8}
+l.480 \ticket{8}
                  <./img_lect5/cylindric/TE11.pdf>]
-Overfull \hbox (0.41618pt too wide) in paragraph at lines 641--642
+Overfull \hbox (0.41618pt too wide) in paragraph at lines 483--484
  []\T2A/cmr/bx/n/14.4 Описание за-ту-ха-ния, обу-слов-лен-но-го по-те-ря-ми эне
 р-гии в за-пол-ня-ю-щей сре-
  []
 
-<img2/volna.pdf, id=492, 361.35pt x 213.79875pt>
+<img2/volna.pdf, id=313, 361.35pt x 213.79875pt>
 File: img2/volna.pdf Graphic file (type pdf)
 <use img2/volna.pdf>
-Package pdftex.def Info: img2/volna.pdf  used on input line 659.
+Package pdftex.def Info: img2/volna.pdf  used on input line 501.
 (pdftex.def)             Requested size: 361.34912pt x 213.79822pt.
-[20pdfTeX warning (ext4): destination with the same identifier (name{figure.17}
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.665 \ticket{9}
-                 <./img2/volna.pdf>] [21]
-Overfull \hbox (22.12704pt too wide) in paragraph at lines 701--702
+l.507 \ticket{9}
+                 <./img2/volna.pdf>] [15]
+Overfull \hbox (22.12704pt too wide) in paragraph at lines 543--544
  []\T2A/cmr/bx/n/14.4 Импеданс в про-из-воль-ном се-че-нии ли-нии. [] \T2A/cmr/
 m/n/14.4 Он опре-де-ля-ет-ся как $\OML/cmm/m/it/14.4 Z\OT1/cmr/m/n/14.4 (\OML/c
 mm/m/it/14.4 z\OT1/cmr/m/n/14.4 ) = \OML/cmm/m/it/14.4 V\OT1/cmr/m/n/14.4 (\OML
@@ -1202,50 +1088,50 @@ mm/m/it/14.4 z\OT1/cmr/m/n/14.4 ) = \OML/cmm/m/it/14.4 V\OT1/cmr/m/n/14.4 (\OML
 /cmm/m/it/14.4 z\OT1/cmr/m/n/14.4 )$\T2A/cmr/m/n/14.4 ,
  []
 
-[22] [23] [24]
-<img2/exp.pdf, id=545, 361.35pt x 226.8475pt>
+[16] [17] [18]
+<img2/exp.pdf, id=366, 361.35pt x 226.8475pt>
 File: img2/exp.pdf Graphic file (type pdf)
 <use img2/exp.pdf>
-Package pdftex.def Info: img2/exp.pdf  used on input line 763.
+Package pdftex.def Info: img2/exp.pdf  used on input line 605.
 (pdftex.def)             Requested size: 361.34912pt x 226.84694pt.
- [25pdfTeX warning (ext4): destination with the same identifier (name{figure.18
+ [19pdfTeX warning (ext4): destination with the same identifier (name{figure.11
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.771 \ticket{13}
+l.613 \ticket{13}
                   <./img2/exp.pdf>]
-<img/13.pdf, id=570, 849.37529pt x 349.64928pt>
+<img/13.pdf, id=391, 849.37529pt x 349.64928pt>
 File: img/13.pdf Graphic file (type pdf)
 <use img/13.pdf>
-Package pdftex.def Info: img/13.pdf  used on input line 775.
+Package pdftex.def Info: img/13.pdf  used on input line 617.
 (pdftex.def)             Requested size: 324.36473pt x 133.52966pt.
- [26pdfTeX warning (ext4): destination with the same identifier (name{figure.19
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.12
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.794 \ticket{14}
-                  <./img/13.pdf>] [27] [28]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 847.
- [29]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 847.
+l.636 \ticket{14}
+                  <./img/13.pdf>] [21] [22]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 689.
+ [23]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 689.
  (./РњРёРЅРёРјСѓРј.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 847.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 847.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 689.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 689.
 Package rerunfilecheck Info: File `РњРёРЅРёРјСѓРј.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 847.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 689.
  ) 
 Here is how much of TeX's memory you used:
- 23621 strings out of 492616
- 378212 string characters out of 6135178
- 449762 words of memory out of 5000000
- 27172 multiletter control sequences out of 15000+600000
+ 23550 strings out of 492616
+ 376713 string characters out of 6135178
+ 450188 words of memory out of 5000000
+ 27125 multiletter control sequences out of 15000+600000
  541418 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,13n,65p,1344b,677s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1267,10 +1153,10 @@ s/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf-dist/fonts/type1/public/
 cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm10
 00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on РњРёРЅРёРјСѓРј.pdf (29 pages, 647016 bytes).
+Output written on РњРёРЅРёРјСѓРј.pdf (23 pages, 499122 bytes).
 PDF statistics:
- 673 PDF objects out of 1000 (max. 8388607)
- 542 compressed objects within 6 object streams
- 112 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 494 PDF objects out of 1000 (max. 8388607)
+ 400 compressed objects within 4 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
