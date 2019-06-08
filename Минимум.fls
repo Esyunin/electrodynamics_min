@@ -124,6 +124,12 @@ INPUT nul
 INPUT nul
 INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/mathtools/mhsetup.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/makecell/makecell.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/makecell/makecell.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/array.sty

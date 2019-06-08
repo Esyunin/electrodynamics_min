@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1559990249 "Минимум.tex" "Минимум.pdf" "Минимум" 1559990251
+["pdflatex"] 1559993959 "Минимум.tex" "Минимум.pdf" "Минимум" 1559993961
   "c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1542737652 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1542739093 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1542736533 1004 54797486969f23fa377b128694d548df ""
@@ -88,6 +88,8 @@
   "c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1542740336 678 4792914a8f45be57bb98413425e4c7af ""
   "c:/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg" 1542740336 235 6031e5765137be07eed51a510b2b8fb7 ""
   "c:/texlive/2018/texmf-dist/tex/latex/makecell/makecell.sty" 1542740833 15773 2dd7dde1ec1c2a3d0c85bc3b273e04d8 ""
+  "c:/texlive/2018/texmf-dist/tex/latex/mathtools/mathtools.sty" 1542740943 53430 0411f0481da6078e76fd7de46531d2e0 ""
+  "c:/texlive/2018/texmf-dist/tex/latex/mathtools/mhsetup.sty" 1542740943 5317 cf75154a8a7e6436f05a5be497f0b05e ""
   "c:/texlive/2018/texmf-dist/tex/latex/mmap/oml.cmap" 1542741135 1866 c1c12138091b4a8edd4a24a940e6f792 ""
   "c:/texlive/2018/texmf-dist/tex/latex/mmap/oms.cmap" 1542741135 2370 3b1f71b14b974f07cef532db09ae9ee0 ""
   "c:/texlive/2018/texmf-dist/tex/latex/mmap/omx.cmap" 1542741135 3001 252c8ca42b06a22cb1a11c0e47790c6e ""
@@ -100,6 +102,7 @@
   "c:/texlive/2018/texmf-dist/tex/latex/physics/physics.sty" 1542741937 29610 a9597219b282d9c78b02393dcd7d4322 ""
   "c:/texlive/2018/texmf-dist/tex/latex/t2/misccorr.sty" 1542743162 10309 f6015bffa39b43089d24fa4afcaa6ea5 ""
   "c:/texlive/2018/texmf-dist/tex/latex/tools/array.sty" 1542743725 13555 1c149904152e53130811b31763000c97 ""
+  "c:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty" 1542743725 10212 357072c1d20578a30d6387d8a22e72ab ""
   "c:/texlive/2018/texmf-dist/tex/latex/tools/enumerate.sty" 1542743725 3465 3f63ff30365d38132fb55859c9cabd4d ""
   "c:/texlive/2018/texmf-dist/tex/latex/tools/indentfirst.sty" 1542743725 1615 dba466e323af4fcd4a6acb87444d96c3 ""
   "c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-33.def" 1542743886 8589 ed28b1c7dfc407d19d76bca04a0a8153 ""
@@ -127,13 +130,13 @@
   "img2/volna.pdf" 1559937104 15143 c7ef750fec371bdacac65c27536160f6 ""
   "img_lect5/cylindric/TE11.pdf" 1559937104 1671 55b5bcb5bf0a8af7a82c291cd6804d80 ""
   "nul" 0 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Минимум.aux" 1559990251 17153 347d04ddb814a747e6b3cfdb6ac48a5d ""
-  "Минимум.out" 1559990250 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Минимум.tex" 1559990247 35166 e959f236efba91dd574dbdbaebd3d1a6 ""
+  "Минимум.aux" 1559993961 17838 d0e2a26a1b0dfbaba91c716c8a88ff58 ""
+  "Минимум.out" 1559993960 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Минимум.tex" 1559993957 37305 e2815c13cab3f3cd68e798e9ede091a7 ""
   (generated)
-  "e:/Work/GitHub/Electrodynamics_minimum/Минимум.log"
-  "e:/Work/GitHub/Electrodynamics_minimum/Минимум.pdf"
   "Минимум.out"
-  "Минимум.pdf"
   "Минимум.aux"
   "Минимум.log"
+  "e:/Work/GitHub/Electrodynamics_minimum/Минимум.pdf"
+  "Минимум.pdf"
+  "e:/Work/GitHub/Electrodynamics_minimum/Минимум.log"

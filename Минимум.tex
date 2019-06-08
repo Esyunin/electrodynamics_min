@@ -14,6 +14,8 @@
 %     pdfborder = {0 0 0}
 % }
 \usepackage{physics}
+\usepackage{mathtools}
+\mathtoolsset{showonlyrefs=true}
 \DeclareMathOperator{\Div}{div}
 \DeclareMathOperator{\Rot}{rot}
 \DeclareMathOperator{\Grad}{grad}
@@ -380,6 +382,34 @@ $\varepsilon=\varepsilon'+i \varepsilon''$, аналогично $\mu=\ldots$. �
 	&a_{-p} = \frac{1}{N_p}\int\limits_V\left[ (\vec{j}^e,\vec{E}_{p})-(\vec{j}^m,\vec{H}_{p}) \right]\dd V,
 \end{align*}
 где $N_p$ - это норма моды $p$, $N_p=\pm4\Pi_p$, где $\Pi_p$ - мощность моды типа $p$.
+\paragraph{Представление полей в резонаторе как суперпозицию мод} % (fold)
+Пусть в резонаторе с идеально проводящими стенками заданы токи $\vec j^e e^{i \omega t}$ и $\vec j^me^{i \omega t}$. Тогда вне области источников тока можно найти поля как суперпозицию собственных мод резонатора:
+\begin{gather*}
+	\vec E = \sum_{p=1}^{\infty} e_p \vec E_p   + \vec E_{\text{п}}  \\
+	\vec H = \sum_{p=1}^{\infty} h_p \vec H_p + \vec H_{\text{п}},
+\end{gather*}
+$p$ -- индекс собственной моды резонатора.
+
+Сумма это вихревая часть поля, а $E_{\text{п}}$ -- потенциальная часть поля.
+Решения для первого и второго слагаемого рассматриваются отдельно.
+Для потенциальной части необходимо решить задачу Пуассона для $\phi^e$ и $\phi^m$ с гран. условиями
+\begin{gather*}
+	\Delta \phi^e = - \frac{4\pi}{\epsilon} \rho^e, ~ \phi^e \eval_S =0 \\
+	\Delta \phi^m = - \frac{4\pi}{\mu} \rho^m, ~ \pdv{\phi^e}{n} \eval_S = 0
+\end{gather*}
+
+Коэффициенты $e_p$ и  $h_p$ ищутся следующим образом: 
+\begin{gather*}
+	e_p = \frac{1}{N_p} \qty(\frac{i}{\omega^2 - \omega^2_p}) \int\limits_V \qty(\omega \vec j^e \vec E_p -
+		\omega_p \vec j^m \vec H_p) \dd{V}\\
+	h_p = \frac{1}{N_p} \qty(\frac{i}{\omega^2 - \omega^2_p}) \int\limits_V \qty(\omega_p \vec j^e \vec E_p -
+		\omega \vec j^m \vec H_p) \dd{V},
+\end{gather*}
+$\omega$ -- частота источника, $\omega_p$ -- собственная частота резонатора, $N_p$ -- норма собственного колебания
+\begin{equation}
+	N_p = \frac{1}{4\pi} \int_V \epsilon \qty(\vec E_p)^2 \dd{V} = - \frac{1}{4\pi} \int_V \mu \qty(\vec H_p)^2 \dd{V} = 
+\end{equation}
+
 
 \paragraph{Дифференциальное и полное сечения рассеяния тела.}
 \begin{equation}
