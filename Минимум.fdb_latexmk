@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1560091273 "Минимум.tex" "Минимум.pdf" "Минимум" 1560091276
+["pdflatex"] 1560100102 "Минимум.tex" "Минимум.pdf" "Минимум" 1560100104
   "c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1542737652 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1542739093 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1542736533 1004 54797486969f23fa377b128694d548df ""
@@ -139,15 +139,15 @@
   "img2/volna.pdf" 1559937104 15143 c7ef750fec371bdacac65c27536160f6 ""
   "img_lect5/cylindric/TE11.pdf" 1559937104 1671 55b5bcb5bf0a8af7a82c291cd6804d80 ""
   "nul" 0 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Минимум.aux" 1560091275 22889 7875e74de8385c2405ed3a3949578a45 ""
-  "Минимум.out" 1560091274 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Минимум.tex" 1560091265 45726 5043ecdd2fabc168df0424acd58db6dd ""
+  "Минимум.aux" 1560100104 23364 d9a688cad28d1ed4d4d57c35748ae9ca ""
+  "Минимум.out" 1560100103 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Минимум.tex" 1560091855 46329 01cd956244ba786dd7d1109cffd0a695 ""
   (generated)
-  "РњРёРЅРёРјСѓРј.aux"
-  "Минимум.pdf"
-  "РњРёРЅРёРјСѓРј.out"
-  "Минимум.log"
   "Минимум.out"
-  "РњРёРЅРёРјСѓРј.log"
   "Минимум.aux"
+  "Минимум.log"
+  "РњРёРЅРёРјСѓРј.aux"
+  "РњРёРЅРёРјСѓРј.out"
+  "Минимум.pdf"
+  "РњРёРЅРёРјСѓРј.log"
   "РњРёРЅРёРјСѓРј.pdf"
