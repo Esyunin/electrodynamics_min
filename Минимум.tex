@@ -182,7 +182,7 @@
 	\vec{E}=\frac{1}{k_0\epsilon\mu}(\nabla \Div + k^2)\vec{A}^e 
 \end{equation}
 	
-	Вычислим $\nabla div \vec{A}^e$ и $rot \vec{A}^e$ при условии $\vec{A}^e = \phi^e(\vec{r}_\perp)e^{-ihz}\vec{z}_0$
+	Вычислим $\nabla \Div \vec{A}^e$ и $rot \vec{A}^e$ при условии $\vec{A}^e = \phi^e(\vec{r}_\perp)e^{-ihz}\vec{z}_0$
 \begin{equation}
 	\Div \vec{A}^e = -ih\phi^e(\vec{r}_\perp)e^{-ihz}
 \end{equation}
@@ -197,10 +197,10 @@
 \begin{equation}
 	e^{-ihz}\cdot\left\{
 	\begin{aligned}
-		E_z = \frac{\kappa^2}{k_0\epsilon\mu}\phi^e(\vec{r}_\perp)\\
-		\vec{E}_\perp = -\frac{h}{k_0\epsilon\mu}\nabla_\perp\phi^e(\vec{r}_\perp)\\
-		\vec{H}_\perp = \frac{1}{\mu}[\nabla_\perp\phi^e(\vec{r}_\perp,\vec{z}_0)]\\
-		H_z = 0
+		&E_z = \frac{\kappa^2}{ik_0\epsilon\mu}\phi^e(\vec{r}_\perp)\\
+		&\vec{E}_\perp = -\frac{h}{k_0\epsilon\mu}\nabla_\perp\phi^e(\vec{r}_\perp)\\
+		&\vec{H}_\perp = \frac{1}{\mu}[\nabla_\perp\phi^e(\vec{r}_\perp),\vec{z}_0]\\
+		&H_z = 0
 	\end{aligned}\right.
 \end{equation}
 
@@ -212,10 +212,10 @@ TM -- поперечная магнитная волна. Магнитное п�
 \begin{equation}
 	e^{-ihz}\cdot\left\{
 	\begin{aligned}
-		H_z = \frac{\kappa^2}{k_0\epsilon\mu}\phi^e(\vec{r}_\perp) \\
-		\vec{H}_\perp = -\frac{h}{k_0\epsilon\mu}\nabla_\perp\phi^e(\vec{r}_\perp) \\
-		vec{E}_\perp = -\frac{1}{\epsilon}[\nabla_\perp\phi^e(\vec{r}_\perp,\vec{z}_0)] \\
-		\displaystyle E_z = 0
+		&H_z = \frac{\kappa^2}{ik_0\epsilon\mu}\phi^e(\vec{r}_\perp) \\
+		&\vec{H}_\perp = -\frac{h}{k_0\epsilon\mu}\nabla_\perp\phi^e(\vec{r}_\perp) \\
+		&\vec{E}_\perp = -\frac{1}{\epsilon}[\nabla_\perp\phi^e(\vec{r}_\perp),\vec{z}_0] \\
+		&E_z = 0
 	\end{aligned}\right.
 \end{equation}
 функция $\phi$ не обязана быть такой же, поэтому изменяется верхний индекс на $m$, эта функция также должна удовлетворять уравнению Гельмгольца  
@@ -272,31 +272,32 @@ $\phi$ -- поперечная волновая функция, удовлетв
 	Рассмотрим граничные условия для функций $\phi^{(e,m)}$ для различных типов волн.
 	
 	Математическая формулировка задачи описания волн в линии передач.
-	
-	TM
-	
-	$\Delta_\perp\phi^{e}+\kappa^2\phi^{e}=0$
-	
-	$\phi^e|_L = 0$
-	Условие Дирихле.
-	\vspace{20pt}
-	
-	TE
-	
-	$\Delta_\perp\phi^{m}+\kappa^2\phi^{m}=0$
-	
-	$\displaystyle \pdv{\phi^m}{n}|_L = 0$
-	Условие Неймана.
+	\begin{equation}
+	\text{\textbf{TM}}  \left\{
+		\begin{aligned}
+			&\Delta_\perp\phi^{e}+\kappa^2\phi^{e}=0\\
+			&\phi^e|_L = 0
+		\end{aligned}\right. - \text{Условие Дирихле.}
+	\end{equation}
+
+	\begin{equation}
+		\text{\textbf{TE}} \left\{
+		\begin{aligned}
+			&\Delta_\perp\phi^{m}+\kappa^2\phi^{m}=0\\
+			&\pdv{\phi^m}{n}|_L = 0	
+		\end{aligned}\right. - \text{Условие Неймана.}
+	\end{equation}
 	
 	Где $\vec{n}$ -- нормаль к контуру $L$ на границе поперечного сечения.
-	\vspace{20pt}
-	
-	TEM
-	
-	$\Delta_\perp\phi=0$
-	
-	$\phi|_{L_i} = C_i$
-	
+
+	\begin{equation}
+		\text{\textbf{TEM}}\left\{
+	\begin{aligned}
+		&\Delta_\perp\phi=0\\
+		&\phi|_{L_i} = C_i
+	\end{aligned}\right.
+\end{equation}
+
 	Таким образом описание волн в линии передач сводится к двумерной задачи Гельмгольца с следующими граничными условиями на контуре, охватывающим поперечное сечение волновода.
 	
 \ticket{5}
@@ -318,7 +319,7 @@ $\phi$ -- поперечная волновая функция, удовлетв
 \begin{gather*}
 \kappa^2 = {\frac{\omega}{c}}^2 {\epsilon \mu}\\
 \omega_{cr} = \frac{\kappa c}{\sqrt{\epsilon \mu}}\\
-\lambda = \frac{2 \pi c}{\omega_{cr}} = \frac{2 \pi}{\kappa \sqrt{\epsilon \mu}}
+\lambda = \frac{2 \pi c}{\omega_{cr}} = \frac{2 \pi}{\kappa} \sqrt{\epsilon \mu}
 \end{gather*}
 $\omega < \omega_{cr}$ дисперсионное уравнения не имеет действительных решений -- режим нераспространяющейся волны. 
 
@@ -352,7 +353,7 @@ $\omega < \omega_{cr}$ дисперсионное уравнения не име
 	
 	\item Длина волны в волноводе (подразумевают линию передачи или трубу, когда говорят волновод)
 	\begin{equation*}
-	\lambda_v = \frac{2 \pi}{h} = \frac{2 \pi}{\sqrt{k^2 - \kappa^2}} = \frac{2 \pi}{k} \frac{1}{\sqrt{1 - \frac{\kappa^2}{k^2}}} = \frac{\lambda_0}{\sqrt{1 - \frac{\omega_cr^2}{\omega}}} > \lambda_0
+	\lambda_v = \frac{2 \pi}{h} = \frac{2 \pi}{\sqrt{k^2 - \kappa^2}} = \frac{2 \pi}{k} \frac{1}{\sqrt{1 - \frac{\kappa^2}{k^2}}} = \frac{\lambda_0}{\sqrt{1 - \frac{\omega_{cr}^2}{\omega^2}}} > \lambda_0
 	\end{equation*}
 	
 	Когда $\omega \rightarrow \omega_{cr}$	$\lambda_{v} \rightarrow \infty$
@@ -365,7 +366,7 @@ $\omega < \omega_{cr}$ дисперсионное уравнения не име
 	
 	Поверхность постоянной фазы - это когда фаза константа.
 	\begin{equation*}
-	faza = \omega t - h z + \phi_0
+	\Phi = \omega t - h z + \phi_0
 	\end{equation*}
 	
 	При данном времени можно найти координату:
@@ -380,10 +381,10 @@ $\omega < \omega_{cr}$ дисперсионное уравнения не име
 	\begin{equation*}
 	v_f = 
 	\frac{\omega}{\sqrt{k^2 - \kappa^2}} = 
-	\frac{\omega}{k} \frac{1}{\sqrt{1 - {\frac{k}{\kappa}^2}}} = \frac{\omega}{k} \frac{1}{\sqrt{1 - {\frac{\omega_{cr}}{\omega}^2}}} > v_f^{(0)}
+	\frac{\omega}{k} \frac{1}{\sqrt{1 - {\frac{k}{\kappa}^2}}} = \frac{\omega}{k} \frac{1}{\sqrt{1 - {\frac{\omega_{cr}^2}{\omega^2}}}} > v_f^{(0)}
 	\end{equation*}
 	\begin{equation*}
-	v_f^{(0)} = \frac{c}{\varepsilon \mu} = \frac{\omega}{k}
+	v_f^{(0)} = \frac{c}{\sqrt{\varepsilon \mu}} = \frac{\omega}{k}
 	\end{equation*}
 	Фазовая скорость может быть больше скорости света.
 	
